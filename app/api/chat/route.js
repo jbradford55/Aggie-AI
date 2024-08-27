@@ -30,12 +30,12 @@ export async function POST(req) {
         
         // Initialize Pinecone and OpenAI clients with environment variables
         const pc = new Pinecone({
-            apiKey: "a72bc5cc-7895-405e-b49b-3cbbc9c9528b",
+            apiKey: process.env.PINECONE_API_KEY,
         });
         
         const index = pc.index('rag2').namespace('ns2');
         const openai = new OpenAI({
-            apiKey: "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"
+            apiKey: process.env.OPENAI_API_KEY,
         });
 
         const text = data[data.length - 1].content;
