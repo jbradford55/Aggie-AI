@@ -1,0 +1,184 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof Dipak Ghosal",
+        "stars": 3.3,
+        "classes": ["ECS 152A - Computer Networks", "ECS 132 - Probability and Statistical Modeling", "ECS 10 - ECS Engineering"],
+        "review": "Patient teacher, and very enthusiastic. Homework he assigns is hard but very helpful to understand the course material. Kind and very clear about what he is teaching. He has a really good curve and is available always for office hours."
+      },
+      {
+        "professor": "Prof Aakash Prabhu",
+        "stars": 5.0,
+        "classes": ["ECS 132 - Probability and Statistical Modeling", "ECS 120 - Theory of Computation"],
+        "review": "."
+      },
+      {
+        "professor": "Prof Kwan Liu Ma",
+        "stars": 2,
+        "classes": ["ECS 175 - Computer Graphics", "ECS 163 - Information Interfaces"],
+        "review": "Very soft spoken and introverted professor, so it's hard to hear him during the lectures. He needs to speak up and not be so shy and meek. The lectures are not helpful and makes his TAs do all the work for him. He seems to be more suited for doing research, but terrible at teaching. Class is a complete joke, would NOT recommend"
+      },
+      {
+        "professor": "Prof Nelson Max",
+        "stars": 2.8,
+        "classes": ["ECS 20 - Intro to Discrete Math", "ECS 32A - Introduction to Programming"],
+        "review": "Overall his class is ok, but Professor Nelson Max is a sensitive and bad-tempered person to homeworks and had reported roughly 40 students for plagiarism for similar work. I would not recommend his class as you have a good chance of being reported, so please beware."
+      },
+      {
+        "professor": "Prof Slobodan Mitrovic",
+        "stars": 4.1,
+        "classes": ["ECS 122A  - Algorithm Design & Analysis"],
+        "review": "Professor Mitrovic is an amazing lecturer. He explains concepts clearly and creates a welcoming atmosphere so students feel comfortable to participate and ask questions. He even offers extra credit if you participate in class. His midterm was difficult, but the class and homework (which are graded on completion) were incredibly interesting."
+      },
+      {
+        "professor": "Prof Kurt Eiselt",
+        "stars": 3.3,
+        "classes": ["ECS 140A - Programming Languages", "ECS 10 - ECS Engineering", "ECS 170 - Artificial Intelligence"],
+        "review": "If you went to lectures and actually understood the homework, you would do well in this class. He truly cares for his students and wants them to succeed. Don't slack on lectures because his questions are based on whether or not you showed up and paid attention."
+      },
+      {
+        "professor": "Aditya Thakur",
+        "stars": 3.1,
+        "classes": ["ECS 140A - Programming Languages", "ECS 240 - Design and Analysis of Programming Languages"],
+        "review": "Pretty standard upper div CS course. The homeworks all build on each other so make sure you understand each one. The tests are pretty hard but the prof gives lots of partial credit for the free response questions. Only negative is that he occasionally is visibly disappointed with the class when only a few students answer the lecture questions."
+      },
+      {
+        "professor": "Prof. Vladimir Filkov",
+        "stars": 3.0,
+        "classes": ["ECS 20 - Intro to Discrete Math", "ECS 122A  - Algorithm Design & Analysis"],
+        "review": "Filkov is great at communicating the material across and made his lecturers very interesting. There were weekly homework that gets progressively harder and proof heavy but graded very easily. Midterms are not too difficult and final is not cumulative, so it is not a very difficult class if your math oriented."
+      },
+      {
+        "professor": "Prof Xin Liu",
+        "stars": 2.5,
+        "classes": ["ECS 193 - Senior Design Project", "ECS 152A - Computer Networks"],
+        "review": "Pretty ambiguous on grading, never know final scores for communication/interactive grading until your grade is up on OASIS. Condescending, forces us to add many many features when our client cares more about functionality. Threatened us with C grade for not having enough functionalities on our project.."
+      },
+      {
+        "professor": "Prof Stefan Broecker",
+        "stars": 5.0,
+        "classes": ["ECS 122B - Algorithm Design & Analysis 2"],
+        "review": "One of the best lecturers I had at Davis. Very clear lectures and quizzes each week with multiple attempts. He wants everyone to pass, relax, and learn. It's crazy how a PhD student is better at teaching than most of the professors at Davis."
+      },
+      {
+        "professor": "Prof Matthew Franklin",
+        "stars": 2.3,
+        "classes": ["ECS 20 - Intro to Discrete Math", "ECS 122A  - Algorithm Design & Analysis", "ECS 120 - Theory of Computation"],
+        "review": "Dr. White explains complex genetic concepts clearly. Her lab sessions are well-organized and informative."
+      },
+      {
+        "professor": "Prof. Zhaojun Bai",
+        "stars": 3.1,
+        "classes": ["ECS 122A  - Algorithm Design & Analysis", "ECS 20 - Intro to Discrete Math"],
+        "review": "Lectures are super good, really helps you understand concepts. Homework is not too hard. If you go to office hours he puts a lot of effort into helping you figure out HW problems you don't understand. Tests are not too challenging, usually based on homework problems and are slightly easier than homework. Really recommend him for ECS122A."
+      },
+      {
+        "professor": "Matthew Bishop",
+        "stars": 5.0,
+        "classes": ["ECS 153 - Computer Security", "ECS 10 - ECS Engineering"],
+        "review": "Bishop is a solid CS professor, C is already hard but he gives extra credit opportunities with every homework and is very helpful with debugging code. Lecture is not mandatory but he is good at explaining concepts and is always open to questions. However, exams are moderately difficult with the final grade being 25% midterm and 35% final."
+      },
+      {
+        "professor": "Raissa D'Souza",
+        "stars": 5.0,
+        "classes": ["ECS 132 - Probability and Statistical Modeling", "ECS 20 - Intro to Discrete Math"],
+        "review": "Amazing professor! Loves teaching very much, and makes classes very applicable and practical with the research she does. Take advantage of the resources used - we used Latex, R studio, Anaconda, and Jupyter Notebook - all are amazing tools! Overall, this is a highly qualified professor that I would highly recommend taking a class from!"
+      },
+      {
+        "professor": "Hao Chen",
+        "stars": 2.1,
+        "classes": ["ECS 40 - Intro to Programming Languages", "ECS 036C - Data Structures"],
+        "review": "Dr. Lee's real-world marketing examples make her classes relevant and interesting. Her group projects are great learning experiences."
+      },
+      {
+        "professor": "Ian Davidson",
+        "stars": 3.9,
+        "classes": ["ECS 170 - Artificial Intelligence", "ECS 188 - Ethics in an Age of Technology"],
+        "review": "Very funny professor, lectures were very enjoyable and digestible, projects were fun and made you learn a lot while implementing your own ideas. Tests were a bit tough, but he is one of the best professors here. He taught the subject well, definitely take him."
+      },
+      {
+        "professor": "Prof David Doty",
+        "stars": 3.1,
+        "classes": ["ECS 120 - Theory of Computation"],
+        "review": "Professor Doty is 100% the best teacher I've ever had. He provides you with so many resources and is always willing to talk with you outside of class if you need help. You can tell he cares deeply about all his students and the material as well. There is no professor at UC Davis I respect more. He is truly the goat of the the UC davis CS department"
+      },
+      {
+        "professor": "Prof. Matthew Farrens",
+        "stars": 2.7,
+        "classes": ["ECS 50 - Computer Organization & Machine-Dependent Programming", "ECS 154B - Computer Architecture 2"],
+        "review": "Professor Farrens is a great guy. He is always accessible after class to answer questions, and is a very pleasant man to talk to about computer architecture. The class isn't exactly the most organized, and the midterms are tough. He gives practice midterms which are very similar to the ones he gives in class, but he grades a bit rough. Good class"
+      },
+      {
+        "professor": "Francois Gygi",
+        "stars": 3.3,
+        "classes": ["ECS 036B - Intro to Data Structures", "ECS 40 - Intro to Programming Languages"],
+        "review": "Prof. Gygi is great at teaching and takes the time to explain concepts clearly if you ask for help during lecture or after class. The lecture slides and example programs provided are very useful. The four homework assignments and two midterms are relatively easy, but are graded harshly."
+      },
+      {
+        "professor": "Prof. Sam King",
+        "stars": 3.5,
+        "classes": ["ECS 150 - Operating Systems"],
+        "review": "Extremely solid professor. I definitely learned so much in this class. Clear cirriculum, and as long as you come to lecture, you should get an A in the class. Although there is a good amount of work (homeworks, then project all in one quarter), if you get a good group you should be fine. Interesting lectures, and he often has personal anecdotes."
+      },
+      {
+        "professor": "Patrice Koehl",
+        "stars": 4.5,
+        "classes": ["ECS 20 - Intro to Discrete Math", "ECS 129 - Computational Structural Bioinformatics"],
+        "review": "Super passionate and genuinely cares about his students grasping concepts. Sometimes was unclear what would be covered on the tests, but if you go to Office Hours he usually tells you what content to study. Lectures aren't recorded but you can miss a few and still be alright because he goes over concepts slowly to make sure we really grasp them."
+      },
+      {
+        "professor": "Greg Kuperberg",
+        "stars": 2.9,
+        "classes": ["MAT 115A - Number Theory"],
+        "review": "Prof. Kuperberg's teaching style is very traditional. His problem sets are challenging but good preparation for the exams."
+      },
+      {
+        "professor": "Jason Lowe-Power",
+        "stars": 4.3,
+        "classes": ["ECS 154B - Computer Architecture 2", "ECS 201 - Advanced Computer Architecture"],
+        "review": "Professor Lowe-Power is one of the best lecturers there is. Is the material easy? Absolutely not. Are the assignments complex and long. Yeah. But you learn A LOT! No matter where you work in the programming stack, understanding topics learned in this course is crucial to make better use of the available resources. Great readings and fair exams."
+      },
+      {
+        "professor": "Josh McCoy",
+        "stars": 3.1,
+        "classes": ["ECS 170 - Artificial Intelligence", "ECS 189 - Black Mirror"],
+        "review": "Professor McCoy is a cool guy but the class is basically coding 2.0. He explains things if you tell him you're confused and he offers office hours on discord. The exams were in person and questions were usually multiple choice, with some short answers, and one long coding question"
+      },
+      {
+        "professor": "Chris Nitta",
+        "stars": 2.5,
+        "classes": ["ECS 150 - Operating Systems", "ECS 165A - Database Systems"],
+        "review": "Dr. Rivera's classes challenge students to think critically about social issues. Her discussions are thought-provoking and inclusive."
+      },
+      {
+        "professor": "Prof. Julian Panetta",
+        "stars": 4.1,
+        "classes": ["ECS 178 - Geometric Modeling", "ECS 230 - Applied Numerical Linear Algebra"],
+        "review": "Panetta's courses are challenging but make you learn. The projects are demanding but provide valuable hands-on experience."
+      },
+      {
+        "professor": "Joel Porquet-Lupine",
+        "stars": 3.9,
+        "classes": ["ECS 150 - Operating Systems", "ECS 036C - Data Structures"],
+        "review": "This professor has taught many of the UC Davis computer science courses adeptly. The professor is thorough with his instructions and provides challenging assignments that prepare you for more advanced coursework/jobs. Professor Porquet is very approachable in office hours and provides good feedback."
+      },
+      {
+        "professor": "Setareh Rafatirad",
+        "stars": 3.2,
+        "classes": ["ECS 171 - Machine Learning", "ECS 122B - Algorithm Design & Analysis 2"],
+        "review": "Professor Rafatirad makes this class much easier than it should be in a way that does not challenge students. Somtimes I have felt that there is much to be desired from her lectures. She is very kind and understanding of her students, granting many extra credit opportunities and allowing 2 free late days for each assignment."
+      },
+      {
+        "professor": "Phillip Rogaway",
+        "stars": 4.4,
+        "classes": ["ECS 20 - Intro to Discrete Math", "ECS 120 - Theory of Computation", "ECS 188 - Ethics in an Age of Technology"],
+        "review": "prof. rogaway is a genuinely excellent professor whom i am grateful to have taken a class with. his lectures are fast-paced and difficult, but you learn a lot. the homework is challenging, but it teaches you great thinking skills, particularly how to think like a cryptographer. approachable, respected, and has left a great legacy here at uc davis."
+      },
+      {
+        "professor": "Mohammad Sadoghi",
+        "stars": 2.4,
+        "classes": ["ECS 165A - Database Systems"],
+        "review": "Worst programming professor ever. If you choose this class, your destiny is basically linked to your teammates. The possibility of getting good grades by yourself is very low. This professor's assignment is not an entry-level database at all."
+      }
+    ]
+  }
