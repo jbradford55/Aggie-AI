@@ -3,7 +3,7 @@
       { "source": "/(.*)", "destination": "/" }
     ],
     "functions": {
-      "api/chat/route.js": {
+      "api/chat.js": {
         "memory": 128,
         "maxDuration": 10
       }
